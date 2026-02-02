@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+sentence-transformers
+torch
+dash
+dash-bootstrap-components
+plotly

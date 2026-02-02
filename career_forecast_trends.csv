@@ -1,0 +1,48 @@
+Skill,Frequency,Trend
+python,280,High Demand
+sql,196,High Demand
+aws,187,High Demand
+machine learning,138,High Demand
+rest apis,136,High Demand
+git,113,High Demand
+java,112,High Demand
+postgresql,81,High Demand
+django,81,High Demand
+networking,76,High Demand
+cloud fundamentals,76,Emerging
+test cases,72,Emerging
+sdlc,72,Emerging
+manual testing,72,Emerging
+numpy,70,Emerging
+pandas,70,Emerging
+statistics,70,Emerging
+deep learning,68,Emerging
+tensorflow,68,Emerging
+statistics basics,65,Emerging
+excel,65,Emerging
+power bi,63,Emerging
+data visualization,63,Emerging
+terraform,62,Emerging
+cloud security,62,Low Demand
+azure,62,Low Demand
+flask basics,61,Low Demand
+kubernetes,57,Low Demand
+ci/cd,57,Low Demand
+docker,57,Low Demand
+oops,56,Low Demand
+spring boot,56,Low Demand
+hibernate,56,Low Demand
+mysql,56,Low Demand
+basics of sql,56,Low Demand
+mongodb,55,Low Demand
+node.js,55,Low Demand
+react,55,Low Demand
+responsive design,54,Low Demand
+javascript,54,Low Demand
+html,54,Low Demand
+css,54,Low Demand
+cloud basics,52,Low Demand
+automation testing,52,Low Demand
+selenium,52,Low Demand
+linux,52,Low Demand
+jira,52,Low Demand
