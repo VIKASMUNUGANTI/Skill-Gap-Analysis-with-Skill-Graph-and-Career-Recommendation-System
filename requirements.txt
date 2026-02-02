@@ -8,3 +8,4 @@ torch
 dash
 dash-bootstrap-components
 plotly
+pyvis
