@@ -251,7 +251,7 @@ if dashboard_view == "📈 Career Forecast":
     st.subheader("📈 Future Job Market Trends")
     st.dataframe(forecast_df, height=300)
 
-    st.markdown("### 🎓 Learning Recommendations")
+    st.markdown("### 🎓 Learning Resources")
     for skill in forecast_df["Skill"].unique():
         with st.expander(f"📘 Learn {skill.title()}"):
             st.markdown(f"""
