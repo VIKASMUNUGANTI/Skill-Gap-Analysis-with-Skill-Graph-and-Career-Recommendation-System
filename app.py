@@ -263,7 +263,7 @@ if dashboard_view == "📈 Career Forecast":
 # =================================================
 # DASHBOARD 3: SKILL GRAPH
 # =================================================
-if dashboard_view == "🕸️ Student Graph":
+if dashboard_view == "🕸️ Skill Graph":
 
     st.subheader("🕸️ Skill Relationship Graph")
     st.markdown("""
